@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_plarfphon.mk
+    $(LOCAL_DIR)/fluid_plarfphon.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_plarfphon-user \
-    aosp_plarfphon-userdebug \
-    aosp_plarfphon-eng
+    fluid_plarfphon-user \
+    fluid_plarfphon-userdebug \
+    fluid_plarfphon-eng
