@@ -247,3 +247,7 @@ persist.rcs.supported = 0
 # end of device/qcom/qssi/system.prop
 
 #
+# Blur
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.sf.blurs_are_expensive=1 \
+    ro.surface_flinger.supports_background_blur=1
